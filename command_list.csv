@@ -1,0 +1,376 @@
+    1  /Volumes/Final\ Cut\ Pro\ 10.7.1\ MAS/Open\ Gatekeeper\ friendly ; exit;
+    2  clear
+    3  sudo scutil --set HostName TheLoonySingle
+    4  sudo scutil --set HostName TheLoonySingle
+    5  sudo scutil --set LocalHostName TheLoonySingle
+    6  sudo scutil --set LocalHostNameTheLoonySingle
+    7  sudo scutil --set ComputerName Vadym
+    8  ls
+    9  ls-r
+   10  ls-a
+   11  ls total 0
+   12  ls-1
+   13   ls-i
+   14  ls-l
+   15   sudo scutil --set LocalHostNameTheLoonySingle
+   16  set ComputerName Vadym
+   17  sudo scutil --set ComputerName Vadym
+   18  sudo scutil --set LocalHostNameTheLoonySingle
+   19  sdf
+   20  man ls
+   21  ls
+   22  cls
+   23  clear
+   24  cd desktop
+   25  cd Desctop
+   26  ls
+   27  cd ..
+   28  ls
+   29  \tcd~
+   30  cd ~
+   31  clear
+   32  cd ~
+   33  ls
+   34  pwd
+   35  cd desktop
+   36  mkdir proba
+   37  ls
+   38  ping https://www.pin-up191.com/ru/casino/promo/slot-of-the-week-2025-new
+   39  clear
+   40  ping https://www.pin-up191.com/ru/casino/promo/slot-of-the-week-2025-new
+   41  ping https://www.pin-up191.com/ru
+   42  ping https://www.pin-up191.com
+   43  ping https://www.pin-up191.com/
+   44  pinng https://www.leagueoflegends.com/ru-ru/
+   45  ping https://www.leagueoflegends.com
+   46  ping
+   47  date
+   48  clear
+   49  cd git
+   50  git config Если у вас появятся дополнительные вопросы - обязательно пишите, во всем разберемся.
+   51  Спасибо за обращение, всего доброго и успешной игрыclear
+   52  clear
+   53  git config --global user.name "DarkHitman"
+   54  git config --global user.email kolodko910@gmail.com
+   55  git clone https://github.com/DarkHitman0905/homework-3.2.git
+   56  clear
+   57  history -c && rm ~/.bash_history
+   58  -c && rm ~/.bash_history
+   59  -c && rm ~/.bash_history
+   60  rm -rf .git\ngit init\ngit add .\ngit commit -m "Reset history"
+   61  clear
+   62   clear
+   63   all clear
+   64  clear
+   65  git clone https://github.com/DarkHitman0905/HW_10.git
+   66  cd HW_10
+   67  touch text_ignore.txt
+   68  echo "text_ignore.txt" >> .gitignore
+   69  git status
+   70  git ad
+   71  git add
+   72   git status
+   73  git add
+   74  git add .
+   75  git commit -m "Добавлен .gitignore и файл text_ignore.txt"
+   76  nano text_ignore.txt .giftignore
+   77  nano .gitignore
+   78  git config --global user.name "DarkHitman"
+   79  git config --global user.emeil "kolodko910@gmail.com"
+   80  clone https://github.com/DarkHitman0905/HW_10.git
+   81  git clone https://github.com/DarkHitman0905/HW_10.git
+   82  cd HW_10
+   83  touch text_ignore.txt
+   84  gift checkkout main
+   85  echo "text_ignore.txt" >> .gitignore
+   86  git status
+   87  git add .
+   88  git commit -m "Добавлен .gitignore и файл text_ignore.txt"
+   89  clear
+   90  cd
+   91  -c && rm ~/.bash_history
+   92  -c && rm ~/.bash_his
+   93  ~/.bash_history
+   94  ,rm ~/.zsh_history && history -c
+   95  rm ~/.bash_history && history -c
+   96  history -c
+   97  rm ~/.bash_history && history -c
+   98  clear
+   99  exec zsh
+  100  rm ~/.bash_history && history -c
+  101  history -c &&\nrm ~/.bash_history
+  102  rm ~/.bash_history
+  103  git config --global user.name "DarkHitman"
+  104  git config --global user.email "kolodko910@gmail.com"
+  105  cd
+  106  ls
+  107  cd desktop
+  108  ls
+  109  cd git
+  110  https://github.com/DarkHitman0905/HW_10.git\n
+  111  git clone https://github.com/DarkHitman0905/HW_10.git
+  112  ls
+  113  cd hw_10
+  114  touch text_ignore.txt
+  115  git status
+  116  git add
+  117  git add text_ignore.txt
+  118  git status
+  119  git commit -m "внесение изменений"
+  120   git touch main_test.txt
+  121  touch main_test.txt
+  122  git add main_test.txt
+  123  git status
+  124  git commit -m "добавил файо main_test.txt"
+  125  git brunch
+  126  git branch
+  127  git checkout -b develop
+  128  git branch
+  129  touch develop_test.txt
+  130  git status
+  131  git add develop_test.txt
+  132  git status
+  133  vin develop_test.txt
+  134  nano develop_test.txt
+  135  ls
+  136  cd desktop
+  137  ls
+  138  cd git
+  139  ls
+  140  cd HW_10
+  141  ls
+  142  git branch
+  143  vim develop_test.txt file
+  144  git status
+  145  git add develop_test.txt
+  146  git status
+  147  git status
+  148  git commit -m "develop_test.txt"
+  149  git status
+  150  git checkout branch main
+  151  git branch
+  152  git checkout branch_main
+  153  git checkout
+  154  git branch
+  155  git checkout
+  156  git checkout main
+  157  git branch
+  158  git merge branch develop
+  159  branch
+  160  git branch
+  161  git merge branch_develop
+  162  git merge develop
+  163  git branch
+  164  git log
+  165  git status
+  166  git status
+  167  git push
+  168  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  169  ssh-keygen -t ed25519 -C
+  170  ssh-keygen -t ed25519 -C"kolodko910@gmail.com"
+  171  cat ~/.ssh/id_ed25519.pub
+  172  ssh-ed25519 AAAAC3... kolodko910@gmail.com
+  173  ls ~/.ssh
+  174  ls
+  175  cd desktop
+  176  cd hw_10
+  177  cd hw_10
+  178  cd git
+  179  cd hw_10
+  180  git branch
+  181  git push
+  182  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  183  SoXOBE
+  184  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519
+  185  git push
+  186  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  187  SOE
+  188  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  189  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  190  .o=O+            |\n|.++.*+           |\n|..*=Eo=          |\n|o+ =+= .         |\n|o ..o.  S .      |\n| o.oo. . o       |\n|o oooo..         |\n|+o..o =          |\n|+..o.+.. 
+  191  .++.*+|\n|..*=Eo=          |\n|o+ =+= .         |\n|o ..o.  S .      |\n| o.oo. . o       |\n|o oooo..         |\n|+o..o =          |\n|+..o.+..
+  192  123456789
+  193  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519.pub
+  194  cat ~/.ssh/id_ed25519.pub
+  195  ssh -T git@github.com
+  196  ssh -T git@github.com
+  197  git push
+  198  ssh -T git@github.com
+  199  git push
+  200  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  201  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  202  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519
+  203  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  204  ssh-keygen -t ed25519.pub -C "kolodko910@gmail.com"
+  205  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  206  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  207  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519
+  208  cat ~/.ssh/id_ed25519.pub
+  209  ssh -T git@github.com
+  210  ssh-add ~/.ssh/id_ed25519
+  211  yAbNdrl6bmH8Kx5InbG1+B7+FMyOBuAgUDFb73JVqxs
+  212  ssh -Thttps://github.com/DarkHitman0905/HW_10.git 
+  213  ssh -T https://github.com/DarkHitman0905/HW_10.git
+  214  ssh -T git@github.com
+  215  git remote set-url origin git@github.com:username/repo.git
+  216  git remote -v
+  217   git push
+  218  git push
+  219  clear
+  220  git push
+  221  git config --global user.name DarkHitman
+  222  git config --global user.email kolodko910@gmail.com
+  223  git push
+  224  ls
+  225  cd desktop
+  226  cdgit
+  227  cd git
+  228  cd hw_10
+  229  git status
+  230  git push
+  231  git push
+  232  git push
+  233  git push
+  234  git push
+  235  cd desktop
+  236  cd git
+  237  cd hw_10
+  238  gip push
+  239  git push
+  240  ssh-keygen -t ed25519 -C "kolodko910@gmail.com"
+  241  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519.pub
+  242  cat ~/.ssh/id_ed25519.pub
+  243  ssh -T git@github.com
+  244  git push
+  245  git push
+  246  git config --global user.name "DarkHitman"
+  247  git config --global user.email "kolodko910@gmail.com"
+  248  ls
+  249  cd desktop
+  250  cd git
+  251  cd hw_10
+  252  git log
+  253  git branch
+  254  git push
+  255  git push
+  256  git remote set-url origin git@github.com:username/repo.git
+  257  git push
+  258  git push
+  259  ssh-keygen
+  260  git push
+  261  git push
+  262  command_list.csv
+  263  checkout
+  264  git checkout
+  265  history 0 > command_list.csv
+  266  "git add."
+  267  git status
+  268  git add history 0 > command_list.cs
+  269  git status
+  270  git add history 0 > command_list.csv
+  271  git add command_list.csv
+  272  git status
+  273  git commit -m "command_list.csv"
+  274  git push
+  275  git push
+  276  ssh -T git@ssh.github.com -p 22
+  277  ssh -T git@ssh.github.com -p 443
+  278  git push
+  279  git push
+  280  git push
+  281  git push
+  282  git push
+  283  git push
+  284  git push
+  285  ~/.ssh/config
+  286  # GitHub config\nHost github.com\n    Hostname ssh.github.com\n    Port 443\n    User kolodko910@gmail.com
+  287  # GitHub config\nHost github.com\n    Hostname ssh.github.com\n    Port 443\n    User git
+  288  # GitLab config\nHost gitlab.com\n    Hostname altssh.gitlab.com\n    User git\n    Port 443
+  289  # GitLab config\nHost gitlab.com\n    Hostname altssh.gitlab.com\n    User kolodko910@gmail.com\n    Port 443
+  290  # GitHub config\n\t\t\tHost github.com\n    Hostname ssh.github.com\n    Port 443\n    User git
+  291  git push
+  292  git push
+  293  git push
+  294  clear
+  295  history -c && rm ~/.bash_history
+  296  history
+  297  history -c
+  298  rm ~/.bash_history
+  299  git config global user.name "DarkHitman"
+  300  git config --global user.name "DarkHitman"
+  301  git config --global user.email "kolodko910@gmail.com"
+  302  history -c && rm ~/.bash_history
+  303  history -c
+  304  history -c &&\nrm ~/.bash_history
+  305  history -c && rm
+  306  history -c &&\n~/.bash_history
+  307  git reset --hard HEAD~N
+  308  git filter-branch --force --index-filter
+  309  git filter-branch --force --index-filter \\n"git rm --cached --ignore-unmatch config.env" \\n--prune-empty --tag-name-filter cat -- --all
+  310  git reflog expire --expire=now --all\ngit gc --prune=now
+  311  git reset --hard HEAD~N
+  312  git checkout --orphan
+  313  git push --force
+  314  git reflog expire
+  315  git reflog expire, git gc
+  316  history -c && rm ~/.bash_history
+  317  -c && rm ~/.bash_history
+  318  clear
+  319  git config --global user.name Darkhitman
+  320  git config --global user.email kolodko910@gmail.com
+  321  cd git
+  322  git clone https://github.com/DarkHitman0905/HW_10.git
+  323  git clone git@github.com:DarkHitman0905/HW_10.git
+  324  git clone git@github.com:DarkHitman0905/hw_10.git
+  325  pwd
+  326  git clone git@github.com:DarkHitman0905/hw_10.git
+  327  ls
+  328  cd desktop
+  329  cd git
+  330  git clone git@github.com:DarkHitman0905/hw_10.git
+  331  rm -rf .git
+  332   git clone git@github.com:DarkHitman0905/hw_10.git
+  333   git clone https://github.com/DarkHitman0905/hw_10.git
+  334   cd hw_10
+  335  touch text_ignore.txt
+  336  git status
+  337   git add text_ignore.txt
+  338  git status
+  339  git commit -m text_ignore.txt
+  340   touch main_test.txt
+  341  git status
+  342  git status
+  343   git add main_test.txt
+  344  git status
+  345  git commit -m main_test.txt
+  346  git status
+  347   git branch
+  348  git checkout develop
+  349  checkout develop
+  350  checkout "develop"
+  351  git checkout "develop"
+  352  git checkout -b branch develop
+  353  git log
+  354  git checkout branch develop
+  355  git checkout branch_develop
+  356  git checkout -b branch_develop
+  357  branch
+  358  git branch
+  359  git branch -m develop
+  360  git branch
+  361   touch develop_test.txt
+  362    git status
+  363  git add develop_test.txt
+  364    git status
+  365  git commit -m "создание файла develop_test.txt"
+  366    git status
+  367  vim develop_test.txt
+  368    git status
+  369  git add develop_test.txt
+  370    git status
+  371  git commit -m "редакт  develop_test.txt"
+  372  checkout main
+  373  git checkout main
+  374   git branch
+  375  git merge develop
+  376  git log
